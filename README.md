@@ -4,7 +4,7 @@
 
 The goal of the assignment is to refactor the starter HTML page and the corresponding CSS to meet the following criteria:
 
-* Improve the overall structure of the (index.html), and make it more accessible to the user, by using by using meaningful and symantic HTML elements, as opposed to generic <div> that do not necessarily provide any meaning for the grouping of various sections in the code.
+* Improve the overall structure of the (index.html), and make it more accessible to the user, by using by using meaningful and symantic HTML elements.
 
 * Improve the CSS structure by consolidating redundant code and replacing them with a single construct that can be reused in the refactored HTML page.
 
