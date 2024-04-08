@@ -36,8 +36,8 @@ THEN I find a concise, descriptive title
 
 # Deliverables submitted for this assignments
 
-* The repo on Github: https://github.com/reztndev/HTML-Git-CSS
+* [The repo on Github:] (https://github.com/reztndev/HTML-Git-CSS)
 
-* Link to the deployed application: https://reztndev.github.io/HTML-Git-CSS/
+* [Link to the deployed application:] (https://reztndev.github.io/HTML-Git-CSS/)
 
-* Screenshot of the completed website: ./assets/images/module-01-screenshot.png
+* [Screenshot of the completed website:] (./assets/images/module-01-screenshot.png)
