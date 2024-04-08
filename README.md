@@ -40,4 +40,4 @@ THEN I find a concise, descriptive title
 
 * [Link to the deployed application:] (https://reztndev.github.io/HTML-Git-CSS/)
 
-* [Screenshot of the completed website:] (./assets/images/module-01-screenshot.png)
+* ![Screenshot of the completed website:] (./assets/images/module-01-screenshot.png)
